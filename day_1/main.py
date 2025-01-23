@@ -1,5 +1,3 @@
-print("dzvippro")
-print("sanghehe")
-print("sanghehe")
-print("🍔🍟")
-print("kfnewfw")
+old=1
+print(old)
+print("hehehe")
